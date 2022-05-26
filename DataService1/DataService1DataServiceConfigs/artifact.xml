@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="AccountHolders" groupId="com.mitrai.com.dataservice" version="1.0.0" type="service/dataservice" serverRole="DataServicesServer">
+        <file>dataservice/AccountHolders.dbs</file>
+    </artifact>
+</artifacts>
